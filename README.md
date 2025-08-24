@@ -33,6 +33,7 @@ https://movieticketbookingapi-production-4807.up.railway.app
 
 
 ### 🧠 API Endpoints
+### Use Postman for API calls
 ### POST /api/movies
 {
   "title": "Inception",
