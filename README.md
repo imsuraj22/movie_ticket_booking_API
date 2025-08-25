@@ -85,8 +85,8 @@ Base URL:- https://movieticketbookingapi-production.up.railway.app/
 
 ### Group Booking (Confirm)
 **POST** `/api/booking/confirm/{showid}`
-In body [4,5]
-(If you failed to book seats it would suggest new seats/shows)
+- In body [4,5]
+- (If you failed to book seats it would suggest new seats/shows)
 
 
 
