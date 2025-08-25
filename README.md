@@ -39,7 +39,7 @@ Base URL:- https://movieticketbookingapi-production.up.railway.app/
 
 ---
 ## 🎟️ API Endpoints
-
+## Use Postman to test APIs
 ### Create Theater
 **POST** `/api/theaters`  
 {
